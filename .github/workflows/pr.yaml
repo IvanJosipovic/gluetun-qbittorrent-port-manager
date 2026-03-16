@@ -9,3 +9,4 @@ jobs:
     permissions:
       contents: read
     uses: IvanJosipovic/templates/.github/workflows/docker-build.yaml@main
+ 
